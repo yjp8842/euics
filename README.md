@@ -1,16 +1,19 @@
-### Hi there 👋
+## 💻 profile
+- `Introduction`: Springboot Backend Developer 🌿
+- `School`: Sejong Univ. (2018.03~) 🏫
+- `Major`: Intelligent Mechatronics Engineering 📙
+- `City`: Seoul, South Korea 🌏
 
-<!--
-**euics/euics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<br>
 
-Here are some ideas to get you started:
+## 🛠 Github Stats
+![euics's GitHub stats](https://github-readme-stats.vercel.app/api?username=euics&show_icons=true&theme=dark&count_private=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+<br>
+
+## 💡 Algorithm
+[![Solved.ac
+pas1007](http://mazassumnida.wtf/api/v2/generate_badge?boj=pjh575157)](https://solved.ac/pjh575157)
+<img src="http://mazandi.herokuapp.com/api?handle=pjh575157&theme=warm"/>
